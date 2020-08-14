@@ -3,4 +3,4 @@ Deep Learning Models
 - ANN
 - CNN
 - RNN
-- LSTM & Wprd Embedding
+- LSTM & Word Embedding
