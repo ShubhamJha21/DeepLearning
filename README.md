@@ -1,5 +1,5 @@
 # DeepLearning
-Deep Learning Models
+Deep Learning (neural networks)
 - ANN
 - CNN
 - RNN
